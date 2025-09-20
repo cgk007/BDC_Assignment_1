@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-google-vertexai
+google-cloud-aiplatform
+pydantic
+requests
+mlflow
+python-dotenv
