@@ -1,0 +1,18 @@
+
+{
+  "companyname": "Google",
+  "stockcode": "GOOGL",
+  "newsdesc": [
+    "Alphabet shares edge higher after product update across Gemini and Search",
+    "Regulatory filing highlights ongoing antitrust scrutiny in the EU and US",
+    "Partnership expands AI features for enterprise Workspace customers",
+    "Analyst note raises FY revenue estimates on advertising recovery"
+  ],
+  "sentiment": "Positive",
+  "peoplenames": ["Sundar Pichai", "Ruth Porat"],
+  "placesnames": ["United States", "European Union"],
+  "othercompaniesreferred": ["Microsoft", "OpenAI"],
+  "relatedindustries": ["Online Advertising", "Cloud Computing", "Generative AI"],
+  "marketimplications": "Recent product momentum and ad recovery support a constructive near‑term outlook, though regulatory risk remains a constraint.",
+  "confidencescore": 0.73
+}
